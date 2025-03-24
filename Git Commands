@@ -1,6 +1,8 @@
 								Git Commands With their Description.
-yum install git --> This command will install the git in our server/machine.
-git --version   --> This command is used to check the version of git into the system.
-ls -ltr         --> This command is used to list all the files with long listing(-l), time(-t) & in recursive(-r) manner. It is used to see the detailed list including date and time.
-git init        --> To initialize the git into a specific directory.
-ls -ltra        --> To see the all the files including the hidden.
+yum install git 	--> This command will install the git in our server/machine.
+git --version   	--> This command is used to check the version of git into the system.
+ls -ltr         	--> This command is used to list all the files with long listing(-l), time(-t) & in recursive(-r) manner. It is used to see the detailed list including date and time.
+git init        	--> To initialize the git into a specific directory.
+ls -ltra        	--> To see the all the files including the hidden.
+git add <filename>	--> To add the gile into the staginf area of git.
+git commit -m "Commit message" <file Name>
